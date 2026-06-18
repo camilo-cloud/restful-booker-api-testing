@@ -1,6 +1,6 @@
 # Restful Booker API Testing Portfolio
 
-Manual QA testing project focused on validating the Booking module of the Restful Booker API.
+Manual QA testing project focused on validating the core functionality of the Restful Booker API.
 
 ## Objective
 
@@ -44,9 +44,11 @@ api-testing-portfolio-restful-booker/
 2. Import the environment.
 3. Execute the collection manually in Postman.
 
-or
+or 
 
-newman run
+```bash
+newman run <collection-file>
+```
 
 ## Status
 
